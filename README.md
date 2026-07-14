@@ -532,12 +532,6 @@ The main dependencies are:
 - tabulate
 - Jupyter
 
-Install the dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Obtain local copies of D1 and D2.
